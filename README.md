@@ -4,7 +4,7 @@ Scraped the Last 5 years' ODI data to analyze the best batsmen, and bowlers as w
 
 
 ----
-# Introduction to Sport "CRICKET"
+## Introduction to Sport - "CRICKET"
 Cricket is a game of bat-and-ball where teams take turns to bat and field. The goal of the game is to score maximum runs while restricting the opposite team (trying to
 get the opposing team out) to as minimum runs as possible. In the End team with the Most runs won. There are three formats of the Game which are Test (4 innings (two for each team spread over a period of 5 days)), ODI (Lmited 50 Over format), T20 (Limited 20 over format).
 This Analysis is focused on ODI (50 Over format) because cricket's biggest tournament is supposed to be held in October in INDIA.
