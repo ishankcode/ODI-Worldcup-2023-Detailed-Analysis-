@@ -1,12 +1,11 @@
 # ODI-Worldcup-2023-Detailed-Analysis-
 Scraped the Last 5 years' ODI data to analyze the best batsmen, and bowlers as well as build the best playing 11 for each team.
 
-
-
 ----
+
 ## Introduction to Sport - "CRICKET"
 Cricket is a game of bat-and-ball where teams take turns to bat and field. The goal of the game is to score maximum runs while restricting the opposite team (trying to
-get the opposing team out) to as minimum runs as possible. In the End team with the Most runs won. There are three formats of the Game which are Test (4 innings (two for each team spread over a period of 5 days)), ODI (Lmited 50 Over format), T20 (Limited 20 over format).
+get the opposing team out) to as minimum runs as possible. In the End team with the Most runs won. There are three formats of the Game which are Test (4 innings (two for each team spread over 5 days)), ODI (Limited 50 Over format), and T20 (Limited 20 over format).
 This Analysis is focused on ODI (50 Over format) because cricket's biggest tournament is supposed to be held in October in INDIA.
 The Project is Divided into 3 Phases:
 1. Web Scraping
@@ -55,7 +54,7 @@ Created 3 main Dahboards:
 
 
 ### 3. Building Best Playing 11 (Important details):
-  -  Can build the best 11 for all the 10 teams qualified for the world cup as well as across various different squads.
+  -  Can build the best 11 for all the 10 teams qualified for the world cup as well as across various squads.
   -  Widget highlights the team's combined performance such as Probable score, Avg economy (basically saying the average score opposition can make against them), as well as bowling average.
   -  The captain of the team is marked with (c) as well as player's playing role can be analyzed based on the symbol of Ball (Bowler), Bat (Batsmen), gloves (Wicketkeeper), ball+bat (allrounder).
   -  Win-loss %, as well as current ODI ranking and number of times the world cup won is highlighted for each team.
