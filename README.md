@@ -44,13 +44,15 @@ Created 3 main Dahboards:
    - Scatter plot for Total Runs Vs Num of Matches ( Highlighting top 10,15, 20 Players).
    - Detailed Table for identifying Top batsmen based on other criteria as well.
    - 3rd Plot is to analyze & emphasize the Player's Performances in their most recent matches (Yellow for the most recent, red for the Last 5 matches).
-![image](https://github.com/ishankcode/ODI-Worldcup-2023-Detailed-Analysis-/assets/66678343/19ca2f89-e649-4266-909e-f823ecd5143d)
+
+![image](https://github.com/ishankcode/ODI-Worldcup-2023-Detailed-Analysis-/assets/66678343/b593da26-1aaa-4600-bb73-f99b07420e82)
 
 
 ### 2. Bowling Analysis:
   - Jitter plot - Provide a filter (Parameter) to select and analyze player's performances across 4 bowling metrics (Wickets, Extras GiveN, Boundary %, Avg. economy) as well as compare the player and rank them against other players.
   - Second view describes the Best 5 Best bowlers in the last 5 years across other categories such as Most 5 wickets taken in a single match, Most MAIDEN OVERS, BOWLING AVERAGE, and bowling economy.
-![image](https://github.com/ishankcode/ODI-Worldcup-2023-Detailed-Analysis-/assets/66678343/4e4fcf80-b80a-4cf0-98cd-437eae5a44bf)
+
+![image](https://github.com/ishankcode/ODI-Worldcup-2023-Detailed-Analysis-/assets/66678343/2f1af1b5-9c6a-4365-901b-90c4f84ff9b3)
 
 
 ### 3. Building Best Playing 11 (Important details):
@@ -60,7 +62,9 @@ Created 3 main Dahboards:
   -  Win-loss %, as well as current ODI ranking and number of times the world cup won is highlighted for each team.
   - Running a sum bar graph is useful to analyze the team's performance across the past 5 years as well as for identifying the maximum winning streak.
 
-![image](https://github.com/ishankcode/ODI-Worldcup-2023-Detailed-Analysis-/assets/66678343/04e2fcb0-e3be-49c9-be4c-c8a59bdb6137)
+![image](https://github.com/ishankcode/ODI-Worldcup-2023-Detailed-Analysis-/assets/66678343/04c7e2f3-9d76-4625-b6c1-ecb95cdc0955)
+
+
 
 -----
 ### Link to Tableau Dashboard :
